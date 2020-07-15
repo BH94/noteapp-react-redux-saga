@@ -4,7 +4,7 @@
 
 ## ✍ Blog
 
-### [리덕스 미들웨어는 무엇인가? (2) redux-thunk](https://velog.io/@youthfulhps/%EB%A6%AC%EB%8D%95%EC%8A%A4-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-2)
+### 포스트 예정입니다.
 
 ## 💡 Skills
 
@@ -12,7 +12,7 @@
 
 ### 2. Redux
 
-### 3. Redux-thunk
+### 3. Redux-saga
 
 ### 4. Axios
 
@@ -20,9 +20,9 @@
 
 ## 🖌 Description
 
-#### React, Redux, Redux-thunk를 이용한 간단한 노트앱입니다.
+#### React, Redux, Redux-saga를 이용한 간단한 노트앱입니다.
 
-#### Redux MiddleWare를 공부하고자 만든 프로젝트이며, Redux-thunk는 날씨 정보를 요청하는 데 비동기작업을 처리하기 위해 사용하였습니다.
+#### Redux MiddleWare를 공부하고자 만든 프로젝트이며, Redux-saga는 날씨 정보를 요청하는 데 비동기작업을 처리하기 위해 사용하였습니다.
 
 #### UI는 Ant-Design framework로 구성하였습니다.
 
@@ -30,11 +30,10 @@
 
 ## 🔧 How to Use
 
-    ~$ git clone https://github.com/BH94/noteapp-react-redux-thunk.git
+    ~$ git clone https://github.com/BH94/noteapp-react-redux-saga.git
 
     ~$ cd noteapp-react-redux-antd
 
     ~$ yarn or npm install
 
     ~$ yarn start or npm start
-# noteapp-react-redux-saga
