@@ -4,7 +4,7 @@
 
 ## ✍ Blog
 
-### [🌤 Redux-saga를 사용해 간단한 날씨 앱 만들기](https://1day1commit.tistory.com/142)
+### [🌤 Redux-saga를 사용해 간단한 날씨 앱 만들기](https://1day1commit.tistory.com/142?category=908239)
 
 ## 💡 Skills
 
